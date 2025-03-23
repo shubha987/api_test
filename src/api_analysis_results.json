@@ -1,0 +1,23 @@
+{
+  "v1": {
+    "single_char_stats": {},
+    "two_char_stats": {},
+    "pagination_test": {},
+    "always_starts_with_query": true,
+    "avg_results_per_char": 0.0
+  },
+  "v2": {
+    "single_char_stats": {},
+    "two_char_stats": {},
+    "pagination_test": {},
+    "always_starts_with_query": true,
+    "avg_results_per_char": 0.0
+  },
+  "v3": {
+    "single_char_stats": {},
+    "two_char_stats": {},
+    "pagination_test": {},
+    "always_starts_with_query": true,
+    "avg_results_per_char": 0.0
+  }
+}
